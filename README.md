@@ -1,1 +1,1 @@
-# Data-analysis-exercise
+# EDA on sales transaction data
