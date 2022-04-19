@@ -1,0 +1,691 @@
+                      Report Banner - Edit rsm.cfg File
+
+           Resource Standard Metrics (TM) for C, C++, C# and Java
+                   Version 7.75 - mSquaredTechnologies.com
+
+  License Type: Shareware Evaluation License
+  Licensed To : Shareware End User - Distribute Freely
+  License No. : SW1380                          License Date: Dec 05, 1998
+  Build Date  : Sep  2 2009                         Run Date: Apr 19, 2022
+  (C)1996-2009 M Squared Technologies LLC
+  ________________________________________________________________________
+
+  License File: C:\Users\vravind6\Documents\MSquared\M2 RSM\rsm.lic
+  Config. File: C:\Users\vravind6\Documents\MSquared\M2 RSM\rsm.cfg
+  Command Line: -OC:\Users\vravind6\M2 RSM Wizard\output\output_metrics.tx
+                t -c -n -FC:\Users\vravind6\M2 RSM Wizard\input\rsm_file_l
+                ist.lst 
+  UDQN File   : C:\Users\vravind6\Documents\MSquared\M2 RSM\rsm_udqn.cfg
+                           ~~ Function Metrics ~~
+                          ~~ Complexity Analysis ~~
+                           ~~ Quality Analysis ~~
+
+  File: C:\Users\vravind6\Downloads\rsm\Assignment1MainScreen.java
+  ________________________________________________________________________
+
+
+    Notice #1: Line 31: Line character length = 86.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #52: Line 42, A class has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #1: Line 47: Line character length = 91.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #50: Line 54, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+  ------------------------ Function Begin Line: 58 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.on
+            Create
+  Parameters: (Bundle savedInstanceState)
+
+    Notice #51: Line 58, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #1: Line 65: Line character length = 88.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 66: Line character length = 83.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 67: Line character length = 94.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 68: Line character length = 86.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 69: Line character length = 102.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 70: Line character length = 86.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #38: Line 76: Exception handling 'try' - 'catch' has been
+           identified.  Exception handling can be a form indirect logic
+           control similar to a goto.  The use of exception handling
+           should be driven by the design and not casually imposed
+           upon the code.
+
+    Notice #1: Line 77: Line character length = 111.  This width
+           exceeds the standard terminal width of 80 characters.
+
+  ------------------------ Function Begin Line: 86 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.!c
+            heckIfHasCamera
+  Parameters: ())
+
+    Notice #51: Line 86, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.!c
+            heckIfHasCamera
+  Complexity   Param 1       Return 1      Cyclo Vg 1       Total        3
+  LOC 3        eLOC 2        lLOC 1        Comment 0        Lines        3
+  ------------------------- Function End Line: 88 ------------------------
+
+    Notice #1: Line 100: Line character length = 108.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #35: Line 105: Public data has been identified with a class
+           specification.  This design breaks object encapsulation
+           allowing free access from other objects and functions.
+
+    Notice #1: Line 108: Line character length = 117.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 118: Line character length = 120.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 122: Line character length = 142.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 129: Line character length = 120.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 133: Line character length = 140.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #35: Line 136: Public data has been identified with a class
+           specification.  This design breaks object encapsulation
+           allowing free access from other objects and functions.
+
+    Notice #1: Line 142: Line character length = 101.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 143: Line character length = 86.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #35: Line 146: Public data has been identified with a class
+           specification.  This design breaks object encapsulation
+           allowing free access from other objects and functions.
+
+    Notice #1: Line 152: Line character length = 120.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 156: Line character length = 167.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 159: Line character length = 130.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #35: Line 163: Public data has been identified with a class
+           specification.  This design breaks object encapsulation
+           allowing free access from other objects and functions.
+
+    Notice #1: Line 169: Line character length = 142.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #35: Line 174: Public data has been identified with a class
+           specification.  This design breaks object encapsulation
+           allowing free access from other objects and functions.
+
+    Notice #1: Line 176: Line character length = 112.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 181: Line character length = 140.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #38: Line 186: Exception handling 'try' - 'catch' has been
+           identified.  Exception handling can be a form indirect logic
+           control similar to a goto.  The use of exception handling
+           should be driven by the design and not casually imposed
+           upon the code.
+
+    Notice #1: Line 191: Line character length = 81.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 192: Line character length = 135.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 194: Line character length = 134.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 202: Line character length = 112.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #50: Line 206, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #50: Line 207, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #1: Line 209: Line character length = 99.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #50: Line 210, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #1: Line 213: Line character length = 81.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 214: Line character length = 97.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 215: Line character length = 82.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 217: Line character length = 88.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 219: Line character length = 96.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 221: Line character length = 98.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 229: Line character length = 117.  This width
+           exceeds the standard terminal width of 80 characters.
+
+  ----------------------- Function Begin Line: 238 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.on
+            Start
+  Parameters: ()
+
+    Notice #51: Line 238, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #49: Line 241: The function has no input parameters or void.
+           Suggest using explicit parameters for interface clarity.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.on
+            Start
+  Complexity   Param 0       Return 1      Cyclo Vg 1       Total        2
+  LOC 4        eLOC 3        lLOC 2        Comment 0        Lines        4
+  ------------------------ Function End Line: 241 ------------------------
+
+    Notice #1: Line 243: Line character length = 83.  This width
+           exceeds the standard terminal width of 80 characters.
+
+  ----------------------- Function Begin Line: 243 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.on
+            ActivityResult
+  Parameters: (int requestCode, int resultCode, Intent data)
+
+    Notice #51: Line 243, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #1: Line 251: Line character length = 93.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #38: Line 252: Exception handling 'try' - 'catch' has been
+           identified.  Exception handling can be a form indirect logic
+           control similar to a goto.  The use of exception handling
+           should be driven by the design and not casually imposed
+           upon the code.
+
+    Notice #38: Line 258: Exception handling 'try' - 'catch' has been
+           identified.  Exception handling can be a form indirect logic
+           control similar to a goto.  The use of exception handling
+           should be driven by the design and not casually imposed
+           upon the code.
+
+    Notice #1: Line 259: Line character length = 82.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 264: Line character length = 129.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 268: Line character length = 137.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 271: Line character length = 134.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 275: Line character length = 134.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 278: Line character length = 108.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #17: Function comments, 0.0% are less than 10.0%.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.on
+            ActivityResult
+  Complexity   Param 3       Return 1      Cyclo Vg 8       Total       12
+  LOC 42       eLOC 33       lLOC 19       Comment 0        Lines       50
+  ------------------------ Function End Line: 292 ------------------------
+
+    Notice #52: Line 294, A class has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+  ----------------------- Function Begin Line: 295 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.De
+            tectBreathingRate.DetectBreathingRate
+  Parameters: (ArrayList<Integer> xAcceleratorValues)
+
+    Notice #51: Line 295, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.De
+            tectBreathingRate.DetectBreathingRate
+  Complexity   Param 1       Return 1      Cyclo Vg 1       Total        3
+  LOC 3        eLOC 2        lLOC 1        Comment 0        Lines        3
+  ------------------------ Function End Line: 297 ------------------------
+
+    Notice #35: Line 300: Public data has been identified with a class
+           specification.  This design breaks object encapsulation
+           allowing free access from other objects and functions.
+
+  ----------------------- Function Begin Line: 303 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.De
+            tectBreathingRate.run
+  Parameters: ()
+
+    Notice #51: Line 303, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #1: Line 309: Line character length = 90.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #1: Line 314: Line character length = 81.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #49: Line 318: The function has no input parameters or void.
+           Suggest using explicit parameters for interface clarity.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.De
+            tectBreathingRate.run
+  Complexity   Param 0       Return 1      Cyclo Vg 1       Total        2
+  LOC 10       eLOC 9        lLOC 8        Comment 2        Lines       16
+  ------------------------ Function End Line: 318 ------------------------
+
+  ----------------------- Function Begin Line: 322 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.sa
+            vingStuffToCSV
+  Parameters: (ArrayList<Integer> data, String path)
+
+    Notice #51: Line 322, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #38: Line 326: Exception handling 'try' - 'catch' has been
+           identified.  Exception handling can be a form indirect logic
+           control similar to a goto.  The use of exception handling
+           should be driven by the design and not casually imposed
+           upon the code.
+
+    Notice #50: Line 331, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #17: Function comments, 0.0% are less than 10.0%.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.sa
+            vingStuffToCSV
+  Complexity   Param 2       Return 1      Cyclo Vg 2       Total        5
+  LOC 18       eLOC 15       lLOC 10       Comment 0        Lines       22
+  ------------------------ Function End Line: 343 ------------------------
+
+  ----------------------- Function Begin Line: 345 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.re
+            moveNoise
+  Parameters: (ArrayList<Integer> data, int filter)
+
+    Notice #51: Line 345, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #50: Line 346, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #50: Line 349, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #43: Line 352, The keyword 'continue' has been found.
+           The use of 'continue' can create code which is difficult
+           to maintain where the logic flow jumps to the beginning
+           of the framing control structure.
+
+    Notice #17: Function comments, 0.0% are less than 10.0%.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.re
+            moveNoise
+  Complexity   Param 2       Return 1      Cyclo Vg 3       Total        6
+  LOC 13       eLOC 10       lLOC 8        Comment 0        Lines       16
+  ------------------------ Function End Line: 360 ------------------------
+
+  ----------------------- Function Begin Line: 362 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.st
+            artRecordingVideo
+  Parameters: ()
+
+    Notice #51: Line 362, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #1: Line 363: Line character length = 162.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #17: Function comments, 0.0% are less than 10.0%.
+
+    Notice #49: Line 373: The function has no input parameters or void.
+           Suggest using explicit parameters for interface clarity.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.st
+            artRecordingVideo
+  Complexity   Param 0       Return 1      Cyclo Vg 1       Total        2
+  LOC 10       eLOC 9        lLOC 8        Comment 0        Lines       12
+  ------------------------ Function End Line: 373 ------------------------
+
+  ----------------------- Function Begin Line: 375 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.fi
+            ndPeak
+  Parameters: (ArrayList<Integer> data)
+
+    Notice #51: Line 375, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #50: Line 376, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #50: Line 377, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #50: Line 377, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #50: Line 390, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #43: Line 395, The keyword 'continue' has been found.
+           The use of 'continue' can create code which is difficult
+           to maintain where the logic flow jumps to the beginning
+           of the framing control structure.
+
+    Notice #22: Line 395: The keyword, 'if', appears not to be delimited
+           with scope { .. } operators around its content.  This
+           could cause a maintenance problem where code falls outside
+           the intended scope of the 'if' statement.
+
+    Notice #17: Function comments, 8.0% are less than 10.0%.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.fi
+            ndPeak
+  Complexity   Param 1       Return 1      Cyclo Vg 7       Total        9
+  LOC 23       eLOC 18       lLOC 14       Comment 2        Lines       32
+  ------------------------ Function End Line: 406 ------------------------
+
+  ----------------------- Function Begin Line: 408 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.ch
+            eckIfHasCamera
+  Parameters: ()
+
+    Notice #51: Line 408, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #17: Function comments, 0.0% are less than 10.0%.
+
+    Notice #46: Function blank line percent, 0.0% is less than 10.0%.
+
+    Notice #27: Line 415: The number of function return points
+           2 exceeds the specified limit of 1.
+
+    Notice #49: Line 415: The function has no input parameters or void.
+           Suggest using explicit parameters for interface clarity.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.ch
+            eckIfHasCamera
+  Complexity   Param 0       Return 2      Cyclo Vg 2       Total        4
+  LOC 8        eLOC 6        lLOC 2        Comment 0        Lines        8
+  ------------------------ Function End Line: 415 ------------------------
+
+  ----------------------- Function Begin Line: 417 -----------------------
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.ha
+            ndlingPermission
+  Parameters: (Activity activity)
+
+    Notice #51: Line 417, A function has been identified which does not
+           have a preceding comment.  Comments that detail the purpose,
+           algorithms, and parameter/return definitions are suggested.
+
+    Notice #50: Line 418, A variable has been identified which is
+           assigned to a literal number.  Symbolic constants should
+           be used to enhance maintainability.
+
+    Notice #1: Line 419: Line character length = 121.  This width
+           exceeds the standard terminal width of 80 characters.
+
+    Notice #17: Function comments, 0.0% are less than 10.0%.
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.ha
+            ndlingPermission
+  Complexity   Param 1       Return 1      Cyclo Vg 2       Total        4
+  LOC 18       eLOC 14       lLOC 6        Comment 0        Lines       22
+  ------------------------ Function End Line: 438 ------------------------
+
+    Notice #20: File comment line percentage, 1.7% is less than 10.0%
+  ------------------------------------------------------------------------
+
+                          ~~ Total File Summary ~~
+
+  LOC 351      eLOC 302      lLOC 213      Comment 6        Lines      439
+  ------------------------------------------------------------------------
+
+                        ~~ File Functional Summary ~~
+
+  File Function Count....:         12
+  Total Function LOC.....:        152  Total Function Pts LOC :        6.6
+  Total Function eLOC....:        121  Total Function Pts eLOC:        5.7
+  Total Function lLOC....:         79  Total Function Pts lLOC:        4.0
+  Total Function Params .:         11  Total Function Return .:         12
+  Total Cyclo Complexity :         29  Total Function Complex.:         52
+         ------     -----     -----     ------     ------     -----       
+  Max Function LOC ......:         42  Average Function LOC ..:      12.67
+  Max Function eLOC .....:         33  Average Function eLOC .:      10.08
+  Max Function lLOC .....:         19  Average Function lLOC .:       6.58
+         ------     -----     -----     ------     ------     -----       
+  Max Function Parameters:          3  Avg Function Parameters:       0.92
+  Max Function Returns ..:          2  Avg Function Returns ..:       1.00
+  Max Interface Complex. :          5  Avg Interface Complex. :       1.92
+  Max Cyclomatic Complex.:          8  Avg Cyclomatic Complex.:       2.42
+  Max Total Complexity ..:         12  Avg Total Complexity ..:       4.33
+  ________________________________________________________________________
+  End of File: C:\Users\vravind6\Downloads\rsm\Assignment1MainScreen.java
+
+
+  ------------------------------------------------------------------------
+
+                     ~~ Project Analysis For 1 Files ~~
+
+  ------------------------------------------------------------------------
+
+                         ~~ Total Project Summary ~~
+
+  LOC 351      eLOC 302      lLOC 213      Comment 6        Lines      439
+  Average per File, metric/1 files
+  LOC 351      eLOC 302      lLOC 213      Comment 6        Lines      439
+
+  ------------------------------------------------------------------------
+
+                      ~~ Project Functional Metrics ~~
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.!c
+            heckIfHasCamera
+  Parameters: ())
+  Complexity   Param 1       Return 1      Cyclo Vg 1       Total        3
+  LOC 3        eLOC 2        lLOC 1        Comment 0        Lines        3
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.on
+            Start
+  Parameters: ()
+  Complexity   Param 0       Return 1      Cyclo Vg 1       Total        2
+  LOC 4        eLOC 3        lLOC 2        Comment 0        Lines        4
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.on
+            ActivityResult
+  Parameters: (int requestCode, int resultCode, Intent data)
+  Complexity   Param 3       Return 1      Cyclo Vg 8       Total       12
+  LOC 42       eLOC 33       lLOC 19       Comment 0        Lines       50
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.De
+            tectBreathingRate.DetectBreathingRate
+  Parameters: (ArrayList<Integer> xAcceleratorValues)
+  Complexity   Param 1       Return 1      Cyclo Vg 1       Total        3
+  LOC 3        eLOC 2        lLOC 1        Comment 0        Lines        3
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.De
+            tectBreathingRate.run
+  Parameters: ()
+  Complexity   Param 0       Return 1      Cyclo Vg 1       Total        2
+  LOC 10       eLOC 9        lLOC 8        Comment 2        Lines       16
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.sa
+            vingStuffToCSV
+  Parameters: (ArrayList<Integer> data, String path)
+  Complexity   Param 2       Return 1      Cyclo Vg 2       Total        5
+  LOC 18       eLOC 15       lLOC 10       Comment 0        Lines       22
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.re
+            moveNoise
+  Parameters: (ArrayList<Integer> data, int filter)
+  Complexity   Param 2       Return 1      Cyclo Vg 3       Total        6
+  LOC 13       eLOC 10       lLOC 8        Comment 0        Lines       16
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.st
+            artRecordingVideo
+  Parameters: ()
+  Complexity   Param 0       Return 1      Cyclo Vg 1       Total        2
+  LOC 10       eLOC 9        lLOC 8        Comment 0        Lines       12
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.fi
+            ndPeak
+  Parameters: (ArrayList<Integer> data)
+  Complexity   Param 1       Return 1      Cyclo Vg 7       Total        9
+  LOC 23       eLOC 18       lLOC 14       Comment 2        Lines       32
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.ch
+            eckIfHasCamera
+  Parameters: ()
+  Complexity   Param 0       Return 2      Cyclo Vg 2       Total        4
+  LOC 8        eLOC 6        lLOC 2        Comment 0        Lines        8
+
+  Function: com.example.contacttracingapplication.Assignment1MainScreen.ha
+            ndlingPermission
+  Parameters: (Activity activity)
+  Complexity   Param 1       Return 1      Cyclo Vg 2       Total        4
+  LOC 18       eLOC 14       lLOC 6        Comment 0        Lines       22
+
+  Total: Functions  
+  LOC 152      eLOC 121      lLOC 79       InCmp 23       CycloCmp      29
+  Function Points         FP(LOC) 2.9     FP(eLOC) 2.3    FP(lLOC)     1.5
+
+  ------------------------------------------------------------------------
+
+                      ~~ Project Functional Analysis ~~
+
+  Total Functions .......:         11  Total Physical Lines ..:        188
+  Total LOC .............:        152  Total Function Pts LOC :        2.9
+  Total eLOC ............:        121  Total Function Pts eLOC:        2.3
+  Total lLOC.............:         79  Total Function Pts lLOC:        1.5
+  Total Cyclomatic Comp. :         29  Total Interface Comp. .:         23
+  Total Parameters ......:         11  Total Return Points ...:         12
+  Total Comment Lines ...:          4  Total Blank Lines .....:         32
+         ------     -----     -----     ------     ------     -----       
+  Avg Physical Lines ....:      17.09
+  Avg LOC ...............:      13.82  Avg eLOC ..............:      11.00
+  Avg lLOC ..............:       7.18  Avg Cyclomatic Comp. ..:       2.64
+  Avg Interface Comp. ...:       2.09  Avg Parameters ........:       1.00
+  Avg Return Points .....:       1.09  Avg Comment Lines .....:       0.36
+         ------     -----     -----     ------     ------     -----       
+  Max LOC ...............:         42
+  Max eLOC ..............:         33  Max lLOC ..............:         19
+  Max Cyclomatic Comp. ..:          8  Max Interface Comp. ...:          4
+  Max Parameters ........:          3  Max Return Points .....:          2
+  Max Comment Lines .....:          2  Max Total Lines .......:         50
+         ------     -----     -----     ------     ------     -----       
+  Min LOC ...............:          3
+  Min eLOC ..............:          2  Min lLOC ..............:          1
+  Min Cyclomatic Comp. ..:          1  Min Interface Comp. ...:          1
+  Min Parameters ........:          0  Min Return Points .....:          1
+  Min Comment Lines .....:          0  Min Total Lines .......:          3
+
+  ------------------------------------------------------------------------
+
+                        ~~ Project Quality Profile ~~
+
+  Type  Count Percent  Quality Notice
+  ________________________________________________________________________
+
+  1        47   46.53  Physical line length > 80 characters
+  17        7    6.93  Function comment content less than 10.0%
+  20        1    0.99  File comment content < 10.0%
+  22        1    0.99  if, else, for or while not bound by scope
+  27        1    0.99  Number of function return points > 1
+  35        6    5.94  Class specification contains public data
+  38        5    4.95  Exception Handling 'try'- 'catch' has been identified
+  43        2    1.98  Keyword 'continue' has been identified
+  46        1    0.99  Function/Class Blank Line content less < 10.0%
+  49        4    3.96  Function appears to have null or blank parameters
+  50       12   11.88  Variable assignment to a literal number
+  51       12   11.88  No comment preceding a function block
+  52        2    1.98  No comment preceding a class block
+  ________________________________________________________________________
+
+          101  100.00  Total Quality Notices
+
+                        ~~ Quality Notice Density ~~
+
+  Basis: 1000 (K)
+
+  Quality Notices/K LOC   =      287.7 ( 28.77%)
+  Quality Notices/K eLOC  =      334.4 ( 33.44%)
+  Quality Notices/K lLOC  =      474.2 ( 47.42%)
+
+  ------------------------------------------------------------------------
+
+                             ~~ File Summary ~~
+
+  C Source Files *.c ....:          0  C/C++ Include Files *.h:          0
+  C++ Source Files *.c* .:          0  C++ Include Files *.h* :          0
+  C# Source Files *.cs ..:          0  Java Source File *.jav*:          1
+  Other File Count ......:          0  Total File Count ......:          1
+
+
+          Shareware evaluation licenses process only 20 files.
+          Paid licenses enable processing for an unlimited number of files.
+
+  ________________________________________________________________________
+
+                      Report Banner - Edit rsm.cfg File
